@@ -1,0 +1,25 @@
+﻿{
+  "counters": [
+    {
+      "countername": "incr",
+      "actiondesp": "给user增加1值",
+      "counteraction": "1"
+    },
+    {
+      "countername": "decr",
+      "actiondesp": "给user减少1",
+      "counteraction": "2"
+    },
+    {
+      "countername": "perin",
+      "actiondesp": "在某段时间内进直播间的人数",
+      "counteraction": "3"
+    },
+    {
+      "countername": "perout",
+      "actiondesp": "在某段时间内出直播间的人数",
+      "counteraction": "4"
+    }
+  ]
+}
+
